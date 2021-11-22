@@ -18,7 +18,6 @@ import org.testng.annotations.Test;
 
 import com.mindtree.utility.RetreiveExcelData;
 
-import jdk.internal.org.jline.utils.Log;
 
 import com.mindtree.pageObjects.AboutUs;
 import com.mindtree.pageObjects.AllOfIt;
