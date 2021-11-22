@@ -1,0 +1,22 @@
+2021-11-19 13:53:54,676  INFO [main] BigSmall:53 - Browser has been Opened
+2021-11-19 13:54:10,268  INFO [main] BigSmall:68 -  entered
+2021-11-19 13:54:10,454  INFO [main] BigSmall:71 -  entered
+2021-11-19 13:54:15,713  INFO [main] BigSmall:73 - clicked on submit button
+2021-11-19 13:54:23,973  INFO [main] BigSmall:68 - Simon@123 entered
+2021-11-19 13:54:24,150  INFO [main] BigSmall:71 - abcd entered
+2021-11-19 13:54:27,176  INFO [main] BigSmall:73 - clicked on submit button
+2021-11-19 13:54:35,253  INFO [main] BigSmall:68 - JackNJill@gamil.com entered
+2021-11-19 13:54:35,392  INFO [main] BigSmall:71 - JacjNJill@123 entered
+2021-11-19 13:54:35,573  INFO [main] BigSmall:73 - clicked on submit button
+2021-11-19 13:54:46,813  INFO [main] BigSmall:91 - Successfully sorted the Price from High to low
+2021-11-19 13:54:53,203  INFO [main] BigSmall:116 - Products has been Displayed
+2021-11-19 13:55:10,816  INFO [main] BigSmall:137 - Returned to the Cart
+2021-11-19 13:55:22,567  INFO [main] BigSmall:155 - Product has been added to the Wishlist
+2021-11-19 13:55:29,323  INFO [main] BigSmall:167 - Title under All Of It is verified
+2021-11-19 13:55:37,227  INFO [main] BigSmall:184 - Product is present over there in WishList
+2021-11-19 13:55:39,683  INFO [main] BigSmall:196 - About us
+2021-11-19 13:55:39,757  INFO [main] BigSmall:199 - Entered in About Us page
+2021-11-19 13:55:47,859  INFO [main] BigSmall:214 - Standard delivery time is 5-7 business days. Choose online payment for contactless delivery.
+Order delivery might be delayed due to the current Covid-19 situation.
+2021-11-19 13:55:47,876  INFO [main] BigSmall:217 - Gift Card has been added to the cart
+2021-11-19 13:55:56,466  INFO [main] BigSmall:240 - Ttile Verfied and Data has been sent successfully
